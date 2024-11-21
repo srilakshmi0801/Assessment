@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FlickerAssesment</string>
+    <string name="author">Author</string>
+    <string name="published_date">Published Date</string>
+    <string name="search_icon">Search Icon</string>
+</resources>
